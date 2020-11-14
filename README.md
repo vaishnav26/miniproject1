@@ -1,2 +1,2 @@
-# miniproject1
-mimiproject
+# mAJOR PROJECT
+mAJOR PROJECT
